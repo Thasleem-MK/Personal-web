@@ -1,0 +1,133 @@
+.nav-bar {
+    background-color: rgba(0, 0, 0, 0.899);
+}
+
+#nav-bar1:focus {
+    background-color: rgba(5, 117, 129, 0.827);
+}
+
+#nav-bar2:focus {
+    background-color: rgba(5, 117, 129, 0.827);
+}
+
+#nav-bar3:focus {
+    background-color: rgba(5, 117, 129, 0.827);
+}
+
+#nav-bar4:focus {
+    background-color: rgba(5, 117, 129, 0.827);
+}
+
+#profile-image {
+    height: 10em;
+    width: 10em;
+    margin: 2em;
+}
+
+.name-text {
+    font-weight: 600;
+    font-size: 2.5em;
+}
+
+#profile {
+    width: 100%;
+    height: 100%;
+}
+
+.skill-mf .progress .progress-bar {
+    height: 0.7rem;
+    background-color: rgb(62, 62, 62);
+}
+
+.title-s {
+    font-weight: 600;
+    color: #1e1e1e;
+    font-size: 1.1rem;
+}
+
+.box-shadow-full {
+    padding: 3rem 1.25rem;
+    position: relative;
+    background-color: #fff;
+    margin-bottom: 3rem;
+    z-index: 2;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+@media (min-width: 768px) {
+    .box-shadow-full {
+        padding: 3rem;
+    }
+}
+.about-body{
+    height: 45em;
+}
+.title-a {
+    text-decoration: none;
+    font-size: 3rem;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  .subtitle-a {
+    text-decoration: none;
+    color: #4e4e4e;
+  }
+  .Tiles:hover{
+    transform: scale(1.02);
+  }
+  .contact-mf {
+    margin-top: 4rem;
+  }
+  .title-box-2 {
+    margin-bottom: 3rem;
+  }
+  
+  .title-left {
+    font-size: 2rem;
+    position: relative;
+  }
+  .button-a {
+    text-decoration: none;
+    background-color: #3d3d3d;
+    color: #fff;
+    border-color: #cde1f8;
+  }
+  .button-big {
+    padding: 0.9rem 2.3rem;
+    font-size: 1.2rem;
+  }
+  .button-rouded {
+    border-radius: 5rem;
+  }
+  .list-ico{
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+  
+  .list-ico {
+    line-height: 2;
+  }
+  
+  .list-ico span {
+    color: #0078ff;
+    margin-right: 10px;
+  }
+  .ico-circle {
+    font-size: 2rem;
+    margin: 0 auto;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    color: #3d3d3d;
+  }
+  .paralax-mf {
+    box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
+  }
+  .footer-paralax {
+    padding: 4rem 0 0 0;
+  }
+  .sect-mt4 {
+    margin-top: 4rem;
+  }
